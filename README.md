@@ -77,7 +77,7 @@
 ## 📬 Let's Connect
 
 - ✉️ nyeworkshin@gmail.com
-- 📸 Instagram → <a href="https://instagram.com/nyewon.art">@nyewon.art</a>
+- 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyewon.art</a>
 
 
 <!-- Rodent Emojis -->
