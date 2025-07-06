@@ -37,13 +37,14 @@
     <td width="50%">
       <h3>🌰 My Acorn Stash (Tools)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
-        <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
+        <!-- Badges with new neon colors -->
+        <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
+        <img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
+        <img src="https://img.shields.io/badge/Photoshop-00BFFF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
         <br>
-        <img src="https://img.shields.io/badge/Procreate-4A4A4A?logo=procreate&logoColor=white&style=for-the-badge" alt="Procreate badge"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
+        <img src="https://img.shields.io/badge/Procreate-B3FF00?logo=procreate&logoColor=black&style=for-the-badge" alt="Procreate badge"/>
+        <img src="https://img.shields.io/badge/Flutter-8B45B2?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
+        <img src="https://img.shields.io/badge/Firebase-E4007F?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
       </p>
     </td>
   </tr>
@@ -60,7 +61,7 @@
 
 ---
 
-## 📈 Activity Pattern: EVA-01 Synced 🟢
+## 📈 Activity Pattern 🟢
 
 <p align="center">
   <!-- GitHub Activity Graph: EVA-01 Purple Theme -->
