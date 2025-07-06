@@ -1,5 +1,6 @@
-<!-- 헤더 일러스트 -->
+<!-- ─────────────────────────  HEADER  ───────────────────────── -->
 <p align="center">
+  <!-- 필요하면 header_moodseum.gif 경로·크기 수정 -->
   <img src="assets/header_moodseum.gif" width="728" alt="Moodseum Museum illustration"/>
 </p>
 
@@ -11,11 +12,18 @@
 
 ---
 
-### 🌟 Featured Projects
+## ✨ About
+
+> **Currently wiping old repos and building brand-new, yet-to-be-released projects.**  
+> Stay tuned for the next reveal! 🚧
+
+---
+
+## 🌟 Featured Projects
 |  |  |
 |--|--|
-| [**Moodseum**](https://github.com/nyeworkshin/moodseum) | 감정을 작품으로 전시하는 모바일 미술관<br><sub>Flutter · Firebase · SVG generator</sub> |
-| [**YIDA – K-Lifestyle Bundles**](https://github.com/nyeworkshin/yida-landing) | 찜질방·노래방·포차 경험을 ‘보따리’에 담은 브랜드<br><sub>Branding · Illustration · Packaging</sub> |
+| [**Moodseum**](https://github.com/SHINYEWORK/moodseum) | 감정을 작품으로 전시하는 모바일 미술관<br><sub>Flutter · Firebase · SVG generator</sub> |
+| [**YIDA – K-Lifestyle Bundles**](https://github.com/SHINYEWORK/yida-landing) | 찜질방·노래방·포차 경험을 ‘보따리’에 담은 브랜드<br><sub>Branding · Illustration · Packaging</sub> |
 
 <details>
 <summary>🧰 Tech & Tools</summary>
@@ -31,13 +39,17 @@
 
 ---
 
-### 📈 Stats
+## 📈 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyeworkshin&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeworkshin&layout=compact&count_private=true)
+<!-- 커밋 스트릭 & 종합 통계 카드  ─ username = SHINYEWORK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINYEWORK&count_private=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHINYEWORK&hide=prs&count_private=true" alt="GitHub Stats"/>
+</p>
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 [![Gmail Badge](https://img.shields.io/badge/-nyeworkshin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nyeworkshin@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nyewon.art-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/nyewon.art)
