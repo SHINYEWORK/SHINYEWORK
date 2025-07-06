@@ -10,9 +10,15 @@
   <em>Turning everyday moods into interactive art.</em>
 </p>
 
+<!-- 🔽🔽🔽 5 Character PNGs Section 🔽🔽🔽 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="1.png" width="60px" alt="Character 1"/>    
+  <img src="2.png" width="60px" alt="Character 2"/>    
+  <img src="3.png" width="60px" alt="Character 3"/>    
+  <img src="4.png" width="60px" alt="Character 4"/>    
+  <img src="5.png" width="60px" alt="Character 5"/>
 </p>
+<!-- 🔼🔼🔼 End of Character Section 🔼🔼🔼 -->
 
 ---
 
