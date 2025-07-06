@@ -71,10 +71,6 @@
 </p>
 <p align="center"><sub>The darker the square, the higher my sync ratio.</sub></p>
 
-<!-- Rodent Emojis -->
-<p align="center">
-  🐹 🐿️ 🐭 🐹 🐿️
-</p>
 
 ---
 
@@ -82,3 +78,9 @@
 
 - ✉️ nyeworkshin@gmail.com
 - 📸 Instagram → <a href="https://instagram.com/nyewon.art">@nyewon.art</a>
+
+
+<!-- Rodent Emojis -->
+<p align="center">
+  🐹 🐿️ 🐭 🐹 🐿️
+</p>
