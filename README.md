@@ -6,7 +6,7 @@
 <!-- ─────────────  HEADER  ───────────── -->
 <p align="center">
   <!-- 🍇🟢 Purple & Green Banner PNG -->
-  <img src="assets/header_banner.png" width="728" alt="Purple & Green banner"/>
+  <img src="header_banner.png" width="728" alt="Purple & Green banner"/>
 </p>
 
 <!-- 🔽🔽🔽 Large Name Asset Header 🔽🔽🔽 -->
