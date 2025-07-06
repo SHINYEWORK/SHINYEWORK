@@ -17,8 +17,18 @@
 I blend visual design, illustration, and code to craft playful experiences.
 
 - 🎓 Visual-design major based in Seoul  
-- 🛠️ Favourite tools: Illustrator, Figma, Photoshop, Procreate, Flutter, Firebase  
 - 💡 Exploring SVG generators & AI for dynamic artwork  
+
+### Favourite Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
+  <img src="https://img.shields.io/badge/Procreate-4A4A4A?logo=procreate&logoColor=white&style=for-the-badge" alt="Procreate badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
+</p>
 
 ---
 
@@ -29,12 +39,16 @@ I blend visual design, illustration, and code to craft playful experiences.
 
 ---
 
-## 📊 Year in Pixels
+## 📊 Activity Snapshot
 
 <p align="center">
+  <!-- Year-in-Pixels style chart -->
   <a href="https://github.com/SHINYEWORK">
     <img src="https://ghchart.rshah.org/7B42F6/SHINYEWORK" alt="Nyewon's GitHub activity graph"/>
   </a>
+  <br/><br/>
+  <!-- Continuous streak card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINYEWORK&count_private=true" alt="GitHub Streak"/>
 </p>
 <p align="center"><sub>The darker the square, the deeper the flow.</sub></p>
 
