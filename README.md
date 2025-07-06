@@ -4,13 +4,17 @@
   <img src="assets/header_banner.gif" width="728" alt="Purple & Green banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Nyewon Shin 🐹</h1>
+<!-- 🔽🔽🔽 Large Name Asset Header 🔽🔽🔽 -->
 <p align="center">
-  Designer · Illustrator · Developer<br/>
-  <em>Turning everyday moods into interactive art.</em>
+  <img src="NYEWON SHIN.png" width="600px" alt="NYEWON SHIN"/>
 </p>
 
-<!-- 🔽🔽🔽 5 Character PNGs Section 🔽🔽🔽 -->
+<!-- Rodent Emojis -->
+<p align="center">
+  🐹 🐿️ 🐭 🐹 🐿️
+</p>
+
+<!-- 5 Character PNGs Section -->
 <p align="center">
   <img src="1.png" width="60px" alt="Character 1"/>    
   <img src="2.png" width="60px" alt="Character 2"/>    
@@ -18,39 +22,31 @@
   <img src="4.png" width="60px" alt="Character 4"/>    
   <img src="5.png" width="60px" alt="Character 5"/>
 </p>
-<!-- 🔼🔼🔼 End of Character Section 🔼🔼🔼 -->
 
 ---
 
-<div align="center">
+### 🐿️ A Little About Me
 
-<table>
-  <tr valign="top">
-    <td width="50%">
-      <h3>🐿️ A Little About Me</h3>
-      <p align="center">
-        I blend visual design, illustration, and code to craft playful experiences.<br/><br/>
-        🎓 Visual-design major based in Seoul<br/>
-        💡 Exploring SVG generators & AI for dynamic artwork
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🌰 My Acorn Stash (Tools)</h3>
-      <p align="center">
-        <!-- Badges with new neon colors -->
-        <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
-        <img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
-        <img src="https://img.shields.io/badge/Photoshop-00BFFF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
-        <br>
-        <img src="https://img.shields.io/badge/Procreate-B3FF00?logo=procreate&logoColor=black&style=for-the-badge" alt="Procreate badge"/>
-        <img src="https://img.shields.io/badge/Flutter-8B45B2?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
-        <img src="https://img.shields.io/badge/Firebase-E4007F?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I blend visual design, illustration, and code to craft playful experiences.<br/><br/>
+  🎓 Visual-design major based in Seoul<br/>
+  💡 Exploring SVG generators & AI for dynamic artwork
+</p>
 
-</div>
+---
+
+### 🌰 My Acorn Stash (Tools)
+
+<p align="center">
+  <!-- Badges with neon colors -->
+  <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
+  <img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-00BFFF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/Procreate-B3FF00?logo=procreate&logoColor=black&style=for-the-badge" alt="Procreate badge"/>
+  <img src="https://img.shields.io/badge/Flutter-8B45B2?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
+  <img src="https://img.shields.io/badge/Firebase-E4007F?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
+</p>
 
 ---
 
@@ -61,7 +57,7 @@
 
 ---
 
-## 📈 Activity Pattern 🟢
+## 📈 Activity Pattern: EVA-01 Synced 🟢
 
 <p align="center">
   <!-- GitHub Activity Graph: EVA-01 Purple Theme -->
