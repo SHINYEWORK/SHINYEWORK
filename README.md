@@ -5,8 +5,8 @@
 
 <!-- ─────────────  HEADER  ───────────── -->
 <p align="center">
-  <!-- 🍇🟢 Keep your awesome purple-green banner GIF/PNG -->
-  <img src="assets/header_banner.gif" width="728" alt="Purple & Green banner"/>
+  <!-- 🍇🟢 Purple & Green Banner PNG -->
+  <img src="assets/header_banner.png" width="728" alt="Purple & Green banner"/>
 </p>
 
 <!-- 🔽🔽🔽 Large Name Asset Header 🔽🔽🔽 -->
@@ -77,7 +77,7 @@
 ## 📬 Let's Connect
 
 - ✉️ nyeworkshin@gmail.com
-- 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyewon.art</a>
+- 📸 Instagram → <a href="https://instagram.com/nyewon.art">@nyewon.art</a>
 
 
 <!-- Rodent Emojis -->
