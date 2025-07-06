@@ -18,8 +18,7 @@
 <!-- 5 Character PNGs Section -->
 <p align="center">
   <img src="1.png" width="60px" alt="Character 1"/>    
-  <img src="2.png" width="60px" alt="Character 2"/>    
-  <img src="3.png" width="60px" alt="Character 3"/>    
+  <img src="2.png" width="60px" alt="Character 2"/>      
   <img src="4.png" width="60px" alt="Character 4"/>    
   <img src="5.png" width="60px" alt="Character 5"/>
 </p>
@@ -29,10 +28,11 @@
 ### 🐿️ A Little About Me
 
 <p align="center">
-  I blend visual design, illustration, and code to craft playful experiences.<br/><br/>
-  🎓 Visual-design major based in Seoul<br/>
-  💡 Exploring SVG generators & AI for dynamic artwork
+  I specialize in crafting playful, interactive experiences at the intersection of visual design, illustration, and code.<br/><br/>
+  🎓 Visual Designer | Based in KOREA<br/>
+  💡 Current Focus: Dynamic artwork with SVG & AI
 </p>
+
 
 ---
 
@@ -77,7 +77,7 @@
 ## 📬 Let's Connect
 
 - ✉️ nyeworkshin@gmail.com
-- 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyewon.art</a>
+- 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyeworkshin</a>
 
 
 <!-- Rodent Emojis -->
