@@ -68,8 +68,8 @@
   </a>
   <br/><br/>
   <!-- GitHub Streak Stats: Custom EVA-01 Theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINYEWORK&count_private=true&theme=custom&background=141321&ring=B3FF00&fire=B3FF00&currStreakNum=8B45B2&sideNums=C7C7C7&currStreakLabel=8B45B2&sideLabels=C7C7C7&dates=C7C7C7&title_color=8B45B2" alt="GitHub Streak"/>
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINYEWORK&count_private=true&theme=custom&background=4A00E0&ring=B3FF00&fire=B3FF00&currStreakNum=8B45B2&sideNums=C7C7C7&currStreakLabel=8B45B2&sideLabels=C7C7C7&dates=C7C7C7&title_color=8B45B2" alt="GitHub Streak"/>
+  
 <p align="center"><sub>The darker the square, the higher my sync ratio.</sub></p>
 
 
