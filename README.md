@@ -37,16 +37,17 @@
 ---
 
 ### 🌰 My Acorn Stash (Tools)
-
 <p align="center">
-  <!-- Badges with neon colors -->
-  <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
-  <img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
-  <img src="https://img.shields.io/badge/Photoshop-00BFFF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/Procreate-B3FF00?logo=procreate&logoColor=black&style=for-the-badge" alt="Procreate badge"/>
-  <img src="https://img.shields.io/badge/Flutter-8B45B2?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
-  <img src="https://img.shields.io/badge/Firebase-E4007F?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
+<!-- Badges with neon colors -->
+<img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
+<img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
+<img src="https://img.shields.io/badge/Photoshop-00BFFF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop badge"/>
+<img src="https://img.shields.io/badge/Procreate-B3FF00?logo=procreate&logoColor=black&style=for-the-badge" alt="Procreate badge"/>
+<br>
+<img src="https://img.shields.io/badge/Rive-E4007F?logo=rive&logoColor=white&style=for-the-badge" alt="Rive badge"/>
+<img src="https://img.shields.io/badge/Cinema%204D-8B45B2?logo=cinema4d&logoColor=white&style=for-the-badge" alt="Cinema 4D badge"/>
+<img src="https://img.shields.io/badge/Flutter-8B45B2?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter badge"/>
+<img src="https://img.shields.io/badge/Firebase-E4007F?logo=firebase&logoColor=white&style=for-the-badge" alt="Firebase badge"/>
 </p>
 
 ---
