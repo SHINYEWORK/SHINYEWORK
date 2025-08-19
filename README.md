@@ -49,12 +49,12 @@
 ---
 
 ## 🚧 Working in my Secret Den...
-> 🤫 I'm busy building brand-new projects behind the scenes! <br>
-> Stay tuned for the big reveal. ✨
+> I'm busy building brand-new projects behind the scenes... <br>
+> Stay tuned for the big reveal..
 
 ---
 
-## 📈 Activity — *Recent-first (6개월 달력 + 최근 차트)*
+## 📈 Activity — Recent-first
 <p align="center">
   <!-- ✅ 상대경로로 수정 -->
   <img src="./metrics.svg" alt="GitHub Metrics (half-year calendar + recent activity)" />
