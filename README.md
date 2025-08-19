@@ -56,8 +56,8 @@
 
 ## 📈 Activity — *Recent-first (6개월 달력 + 최근 차트)*
 <p align="center">
-  <!-- lowlighter/metrics 가 생성하는 SVG (반년 잔디 + 최근 활동 차트) -->
-  <img src="/metrics.svg" alt="GitHub Metrics (half-year calendar + recent activity)" />
+  <!-- ✅ 상대경로로 수정 -->
+  <img src="./metrics.svg" alt="GitHub Metrics (half-year calendar + recent activity)" />
 </p>
 <p align="center"><sub>자동 갱신: 매일 · 타임존: Asia/Seoul</sub></p>
 
