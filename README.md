@@ -54,24 +54,12 @@
 
 ---
 
-## 📰 Recent Activity (auto-updated)
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-<p align="center"><sub>Updates every 12h via GitHub Actions</sub></p>
-
----
-
-## 📈 Activity — *Recent-first*
+## 📈 Activity — *Recent-first (6개월 달력 + 최근 차트)*
 <p align="center">
-  <!-- Recent 31-day Activity Graph -->
-  <a href="https://github.com/SHINYEWORK">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHINYEWORK&hide_border=true&radius=8" alt="Recent 31 days activity"/>
-  </a>
-  <br/><br/>
-  <!-- GitHub Streak (recent streak emphasis) -->
-  <img src="https://streak-stats.demolab.com?user=SHINYEWORK&count_private=true&hide_border=true&background=00000000&ring=B3FF00&fire=B3FF00&currStreakNum=8B45B2&currStreakLabel=8B45B2&sideNums=C7C7C7&sideLabels=C7C7C7&dates=C7C7C7" alt="GitHub Streak"/>
+  <!-- lowlighter/metrics 가 생성하는 SVG (반년 잔디 + 최근 활동 차트) -->
+  <img src="/metrics.svg" alt="GitHub Metrics (half-year calendar + recent activity)" />
 </p>
-<p align="center"><sub>Focus: 최근 31일 활동 & 최신 연속 기여 📅</sub></p>
+<p align="center"><sub>자동 갱신: 매일 · 타임존: Asia/Seoul</sub></p>
 
 ---
 
