@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"      # 매일 00:00 UTC (= 한국시간 오전 9시)
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 필수: 리포 시크릿에 저장한 토큰
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 대상 사용자명 (프로필 리포면 동일)
+          user: SHINYEWORK
+
+          # 생성될 SVG 파일명 (README에 ./metrics.svg 로 참조)
+          filename: metrics.svg
+
+          # 기본 섹션 최소화 + 타임존/emoji
+          base: header
+          config_timezone: Asia/Seoul
+          config_twemoji: yes
+
+          # 6개월 잔디 달력
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 최근 활동 차트
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 10
