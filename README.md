@@ -54,6 +54,13 @@
 
 ---
 
+## 📰 Recent Activity (auto-updated)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<p align="center"><sub>Updates every 12h via GitHub Actions</sub></p>
+
+---
+
 ## 📈 Activity — *Recent-first*
 <p align="center">
   <!-- Recent 31-day Activity Graph -->
