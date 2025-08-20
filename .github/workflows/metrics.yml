@@ -31,8 +31,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 최근 활동 차트
+          # 최근 활동 차트 (텍스트 제외)
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 10
+          plugin_activity_visibility: none
