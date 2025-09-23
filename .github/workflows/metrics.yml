@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -31,9 +32,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 최근 활동 차트 (텍스트 제외)
+          # 최근 활동 (커밋 메시지 숨김: push 제외)
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
           plugin_activity_limit: 10
-          plugin_activity_visibility: none
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_visibility: public
