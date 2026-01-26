@@ -71,16 +71,6 @@
   <img src="https://img.shields.io/badge/CSS-16.5%25-7B2CF6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- PNG로 생성된 '캡슐 스택 바' -->
-  <img
-    src="https://quickchart.io/chart?format=png&backgroundColor=transparent&width=900&height=90&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B44.6%5D%2C%22backgroundColor%22%3A%22%2355E0D7%22%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A%7B%22topLeft%22%3A9%2C%22bottomLeft%22%3A9%2C%22topRight%22%3A0%2C%22bottomRight%22%3A0%7D%7D%2C%7B%22data%22%3A%5B20.5%5D%2C%22backgroundColor%22%3A%22%23E2557A%22%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A0%7D%2C%7B%22data%22%3A%5B18.4%5D%2C%22backgroundColor%22%3A%22%23F5C542%22%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A0%7D%2C%7B%22data%22%3A%5B16.5%5D%2C%22backgroundColor%22%3A%22%237B2CF6%22%2C%22borderWidth%22%3A0%2C%22borderRadius%22%3A%7B%22topLeft%22%3A0%2C%22bottomLeft%22%3A0%2C%22topRight%22%3A9%2C%22bottomRight%22%3A9%7D%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22tooltip%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22stacked%22%3Atrue%2C%22display%22%3Afalse%2C%22min%22%3A0%2C%22max%22%3A100%7D%2C%22y%22%3A%7B%22stacked%22%3Atrue%2C%22display%22%3Afalse%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A0%7D%7D%7D"
-    width="760"
-    alt="Language ratio pill bar"
-  />
-</p>
-
----
 ---
 
 ## 📬 Let's Connect
