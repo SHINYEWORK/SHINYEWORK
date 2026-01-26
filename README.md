@@ -67,22 +67,7 @@
   <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
-  <svg width="520" height="14" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language ratio">
-    <rect width="520" height="14" fill="#eaeaea" rx="7" />
-    <!-- Dart 44.6% -->
-    <rect width="231.92" height="14" fill="#0175C2" rx="7" />
-    <!-- HTML 20.5% -->
-    <rect x="231.92" width="106.60" height="14" fill="#E34F26" />
-    <!-- JS 18.4% -->
-    <rect x="338.52" width="95.68" height="14" fill="#F7DF1E" />
-    <!-- CSS 16.5% (끝 라운드) -->
-    <rect x="434.20" width="85.80" height="14" fill="#1572B6" rx="7" />
-  </svg>
-</p>
-
 ---
-
 ## 📬 Let's Connect
 - ✉️ <a href="mailto:nyeworkshin@gmail.com">nyeworkshin@gmail.com</a>
 - 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyeworkshin</a>
