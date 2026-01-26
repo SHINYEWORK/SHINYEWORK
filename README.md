@@ -54,11 +54,27 @@
 
 ---
 
-## 🧠 Languages — Recent-first
+### 🪵 Skill Growth (Languages)
 <p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINYEWORK&layout=compact" alt="Top Languages" />
+  <img src="https://k6926511.github.io/github-readme-stats/api/pin/?username=SHINYEWORK&repo=Moodseum&show_owner=true" alt="Main Project" />
 </p>
+
+<div align="center">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none;">
+    <tr>
+      <td align="left" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/Dart-44.6%25-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-20.5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-18.4%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+  
+  <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="20" fill="#eee" rx="10" />
+    <rect width="178.4" height="20" fill="#0175C2" rx="10" /> <rect x="178.4" width="82" height="20" fill="#E34F26" /> <rect x="260.4" width="73.6" height="20" fill="#F7DF1E" /> <rect x="334" width="66" height="20" fill="#1572B6" rx="10" /> </svg>
+</div>
 
 ---
 
