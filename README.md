@@ -57,22 +57,7 @@
 ### 🪵 Skill Growth (Languages)
 
 <p align="center">
-  <svg width="760" height="70" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language ratio pill bar">
-    <!-- 배경 -->
-    <rect x="0" y="10" width="1000" height="60" rx="30" ry="30" fill="#ECECEC"/>
-
-    <!-- Dart (왼쪽만 둥글게) -->
-    <rect x="0" y="10" width="446" height="60" rx="30" ry="30" fill="#55E0D7"/>
-    <!-- 가운데 블록들은 각지게 -->
-    <rect x="446" y="10" width="205" height="60" fill="#E2557A"/>
-    <rect x="651" y="10" width="184" height="60" fill="#F5C542"/>
-    <!-- CSS (오른쪽만 둥글게) -->
-    <rect x="835" y="10" width="165" height="60" rx="30" ry="30" fill="#7B2CF6"/>
-
-    <!-- 가운데가 라운드 때문에 살짝 삐져나오는 걸 덮는 마스크(배경색으로 덮기) -->
-    <rect x="446" y="10" width="30" height="60" fill="#E2557A"/>
-    <rect x="835" y="10" width="30" height="60" fill="#7B2CF6"/>
-  </svg>
+  <img src="language_pill.svg" width="760" alt="Language ratio pill bar" />
 </p>
 ---
 
