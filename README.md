@@ -55,26 +55,31 @@
 ---
 
 ### 🪵 Skill Growth (Languages)
+
 <p align="center">
   <img src="https://k6926511.github.io/github-readme-stats/api/pin/?username=SHINYEWORK&repo=Moodseum&show_owner=true" alt="Main Project" />
 </p>
 
-<div align="center">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none;">
-    <tr>
-      <td align="left" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/Dart-44.6%25-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-20.5%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-18.4%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-  <svg width="400" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="20" fill="#eee" rx="10" />
-    <rect width="178.4" height="20" fill="#0175C2" rx="10" /> <rect x="178.4" width="82" height="20" fill="#E34F26" /> <rect x="260.4" width="73.6" height="20" fill="#F7DF1E" /> <rect x="334" width="66" height="20" fill="#1572B6" rx="10" /> </svg>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-44.6%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-20.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-18.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
+  <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <svg width="520" height="14" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language ratio">
+    <rect width="520" height="14" fill="#eaeaea" rx="7" />
+    <!-- Dart 44.6% -->
+    <rect width="231.92" height="14" fill="#0175C2" rx="7" />
+    <!-- HTML 20.5% -->
+    <rect x="231.92" width="106.60" height="14" fill="#E34F26" />
+    <!-- JS 18.4% -->
+    <rect x="338.52" width="95.68" height="14" fill="#F7DF1E" />
+    <!-- CSS 16.5% (끝 라운드) -->
+    <rect x="434.20" width="85.80" height="14" fill="#1572B6" rx="7" />
+  </svg>
+</p>
 
 ---
 
