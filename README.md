@@ -54,12 +54,11 @@
 
 ---
 
-## 📈 Activity — Recent-first
+## 🧠 Languages — Recent-first
 <p align="center">
-  <!-- ✅ 상대경로로 수정 -->
-  <img src="./metrics.svg" alt="GitHub Metrics (half-year calendar + recent activity)" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHINYEWORK&layout=compact" alt="Top Languages" />
 </p>
-<p align="center"><sub>자동 갱신: 매일 · 타임존: Asia/Seoul</sub></p>
 
 ---
 
