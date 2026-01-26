@@ -52,7 +52,7 @@
 > I'm busy building brand-new projects behind the scenes... <br>
 > Stay tuned for the big reveal..
 
----
+<!-- ─────────────  SKILL GROWTH  ───────────── -->
 
 ### 🪵 Skill Growth (Languages)
 
@@ -67,7 +67,34 @@
   <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<p align="center">
+  <svg width="760" height="70" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language ratio pill bar">
+    <!-- pill clip (양끝만 둥글게 만들기) -->
+    <defs>
+      <clipPath id="pill">
+        <rect x="0" y="10" width="1000" height="60" rx="30" ry="30"/>
+      </clipPath>
+    </defs>
+
+    <!-- 배경 -->
+    <rect x="0" y="10" width="1000" height="60" rx="30" ry="30" fill="#ECECEC"/>
+
+    <!-- 색 블록들 (합계 1000 기준: 44.6% = 446 / 20.5% = 205 / 18.4% = 184 / 16.5% = 165) -->
+    <g clip-path="url(#pill)">
+      <!-- Dart -->
+      <rect x="0"   y="10" width="446" height="60" fill="#55E0D7"/>
+      <!-- HTML -->
+      <rect x="446" y="10" width="205" height="60" fill="#E2557A"/>
+      <!-- JavaScript -->
+      <rect x="651" y="10" width="184" height="60" fill="#F5C542"/>
+      <!-- CSS -->
+      <rect x="835" y="10" width="165" height="60" fill="#7B2CF6"/>
+    </g>
+  </svg>
+</p>
+
 ---
+
 ## 📬 Let's Connect
 - ✉️ <a href="mailto:nyeworkshin@gmail.com">nyeworkshin@gmail.com</a>
 - 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyeworkshin</a>
