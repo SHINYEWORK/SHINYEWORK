@@ -57,42 +57,23 @@
 ### 🪵 Skill Growth (Languages)
 
 <p align="center">
-  <img src="https://k6926511.github.io/github-readme-stats/api/pin/?username=SHINYEWORK&repo=Moodseum&show_owner=true" alt="Main Project" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-44.6%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-20.5%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-18.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
-  <img src="https://img.shields.io/badge/CSS-16.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
   <svg width="760" height="70" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language ratio pill bar">
-    <!-- pill clip (양끝만 둥글게 만들기) -->
-    <defs>
-      <clipPath id="pill">
-        <rect x="0" y="10" width="1000" height="60" rx="30" ry="30"/>
-      </clipPath>
-    </defs>
-
     <!-- 배경 -->
     <rect x="0" y="10" width="1000" height="60" rx="30" ry="30" fill="#ECECEC"/>
 
-    <!-- 색 블록들 (합계 1000 기준: 44.6% = 446 / 20.5% = 205 / 18.4% = 184 / 16.5% = 165) -->
-    <g clip-path="url(#pill)">
-      <!-- Dart -->
-      <rect x="0"   y="10" width="446" height="60" fill="#55E0D7"/>
-      <!-- HTML -->
-      <rect x="446" y="10" width="205" height="60" fill="#E2557A"/>
-      <!-- JavaScript -->
-      <rect x="651" y="10" width="184" height="60" fill="#F5C542"/>
-      <!-- CSS -->
-      <rect x="835" y="10" width="165" height="60" fill="#7B2CF6"/>
-    </g>
+    <!-- Dart (왼쪽만 둥글게) -->
+    <rect x="0" y="10" width="446" height="60" rx="30" ry="30" fill="#55E0D7"/>
+    <!-- 가운데 블록들은 각지게 -->
+    <rect x="446" y="10" width="205" height="60" fill="#E2557A"/>
+    <rect x="651" y="10" width="184" height="60" fill="#F5C542"/>
+    <!-- CSS (오른쪽만 둥글게) -->
+    <rect x="835" y="10" width="165" height="60" rx="30" ry="30" fill="#7B2CF6"/>
+
+    <!-- 가운데가 라운드 때문에 살짝 삐져나오는 걸 덮는 마스크(배경색으로 덮기) -->
+    <rect x="446" y="10" width="30" height="60" fill="#E2557A"/>
+    <rect x="835" y="10" width="30" height="60" fill="#7B2CF6"/>
   </svg>
 </p>
-
 ---
 
 ## 📬 Let's Connect
