@@ -58,8 +58,10 @@
 ---
 
 ### Skill Growth 
----
 
+<p align="center">
+  <img src="languages.svg" width="728" alt="Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%" />
+</p>
 <!-- Languages Legend (2 columns, stable colored dots) -->
 <table align="center">
   <tr>
@@ -80,6 +82,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📬 Let's Connect
