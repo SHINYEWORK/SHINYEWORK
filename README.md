@@ -71,7 +71,6 @@
       <img alt="" height="10" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><circle cx='5' cy='5' r='4' fill='%23DA3434'/></svg>"/> CMake 5.6%<br/>
       <img alt="" height="10" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><circle cx='5' cy='5' r='4' fill='%23e34c26'/></svg>"/> HTML 5.4%
     </td>
-
     <td valign="top" style="white-space:nowrap;">
       <img alt="" height="10" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><circle cx='5' cy='5' r='4' fill='%23F05138'/></svg>"/> Swift 0.7%<br/>
       <img alt="" height="10" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10'><circle cx='5' cy='5' r='4' fill='%23701516'/></svg>"/> Ruby 0.7%<br/>
