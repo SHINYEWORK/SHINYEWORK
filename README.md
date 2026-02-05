@@ -40,20 +40,6 @@
   <img src="https://ghchart.rshah.org/SHINYEWORK" alt="GitHub Contributions Chart" />
 </p>
 
-<p align="center">
-  <!-- 옵션: 연속 커밋 스트릭(모바일 가독성 좋음) -->
-  <!-- 2) 아래 USERNAME을 본인 깃헙 아이디로 바꿔줘 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHINYEWORK" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- 옵션: 기본 stats 카드 (contribs 숨김 제거 버전) -->
-  <!-- 3) 아래 USERNAME을 본인 깃헙 아이디로 바꿔줘 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SHINYEWORK&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### My Acorn Stash
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
