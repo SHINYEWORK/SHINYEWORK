@@ -88,6 +88,7 @@
 ## 📬 Let's Connect
 - ✉️ <a href="mailto:nyeworkshin@gmail.com">nyeworkshin@gmail.com</a>
 - 📸 Instagram → <a href="https://instagram.com/nyeworkshin">@nyeworkshin</a>
+- <a href="https://shinyework.com/">https://shinyework.com/</a>
 
 <!-- Rodent Emojis -->
 <p align="center">
