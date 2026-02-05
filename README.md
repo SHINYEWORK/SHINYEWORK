@@ -57,15 +57,32 @@
 
 ### Skill Growth 
 ---
+---
 
+### Languages (Overall)
 <p align="center">
   <img src="languages.svg" width="728" alt="Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%" />
 </p>
 
-<p align="center">
-  Dart 49.6% · JavaScript 21.0% · CSS 8.7% · C++ 7.2% · CMake 5.6% · HTML 5.4% · Swift 0.7% · Ruby 0.7% · C 0.4% · Other 0.4% · Python 0.2%
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <span style="color:#00B4AB;">●</span> Dart 49.6%<br/>
+      <span style="color:#563d7c;">●</span> CSS 8.7%<br/>
+      <span style="color:#DA3434;">●</span> CMake 5.6%<br/>
+      <span style="color:#F05138;">●</span> Swift 0.7%<br/>
+      <span style="color:#555555;">●</span> C 0.4%<br/>
+      <span style="color:#3572A5;">●</span> Python 0.2%
+    </td>
+    <td>
+      <span style="color:#f1e05a;">●</span> JavaScript 21.0%<br/>
+      <span style="color:#f34b7d;">●</span> C++ 7.2%<br/>
+      <span style="color:#e34c26;">●</span> HTML 5.4%<br/>
+      <span style="color:#701516;">●</span> Ruby 0.7%<br/>
+      <span style="color:#ededed;">●</span> Other 0.4%
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📬 Let's Connect
