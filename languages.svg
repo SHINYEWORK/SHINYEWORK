@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="728" height="18" viewBox="0 0 728 18" role="img" aria-label="Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%">
+  <title>Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%</title>
+
+  <!-- background track -->
+  <rect x="0" y="0" width="728" height="18" rx="9" fill="#161B22"/>
+
+  <!-- clip rounded corners for segments -->
+  <clipPath id="rounded">
+    <rect x="0" y="0" width="728" height="18" rx="9"/>
+  </clipPath>
+
+  <!--
+    Widths are based on 728px total.
+    Percentages sum to 99.9%, so the last segment (Python) fills the remaining pixels to reach 728px.
+  -->
+  <g clip-path="url(#rounded)">
+    <!-- Dart 49.6% -->
+    <rect x="0" y="0" width="361.088" height="18" fill="#00B4AB"/>
+    <!-- JavaScript 21.0% -->
+    <rect x="361.088" y="0" width="152.88" height="18" fill="#f1e05a"/>
+    <!-- CSS 8.7% -->
+    <rect x="513.968" y="0" width="63.336" height="18" fill="#563d7c"/>
+    <!-- C++ 7.2% -->
+    <rect x="577.304" y="0" width="52.416" height="18" fill="#f34b7d"/>
+    <!-- CMake 5.6% -->
+    <rect x="629.72" y="0" width="40.768" height="18" fill="#DA3434"/>
+    <!-- HTML 5.4% -->
+    <rect x="670.488" y="0" width="39.312" height="18" fill="#e34c26"/>
+    <!-- Swift 0.7% -->
+    <rect x="709.8" y="0" width="5.096" height="18" fill="#F05138"/>
+    <!-- Ruby 0.7% -->
+    <rect x="714.896" y="0" width="5.096" height="18" fill="#701516"/>
+    <!-- C 0.4% -->
+    <rect x="719.992" y="0" width="2.912" height="18" fill="#555555"/>
+    <!-- Other 0.4% -->
+    <rect x="722.904" y="0" width="2.912" height="18" fill="#ededed"/>
+    <!-- Python 0.2% (fills remainder to reach 728px total) -->
+    <rect x="725.816" y="0" width="2.184" height="18" fill="#3572A5"/>
+  </g>
+
+  <!-- subtle outline -->
+  <rect x="0.5" y="0.5" width="727" height="17" rx="8.5" fill="none" stroke="#30363D"/>
+</svg>

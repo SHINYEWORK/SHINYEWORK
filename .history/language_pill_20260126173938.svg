@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 80" width="1000" height="80" role="img" aria-label="Language ratio pill bar">
+  <rect x="0" y="10" width="1000" height="60" rx="30" ry="30" fill="#ECECEC"/>
+  <rect x="0"   y="10" width="446" height="60" rx="30" ry="30" fill="#55E0D7"/>
+  <rect x="446" y="10" width="205" height="60" fill="#E2557A"/>
+  <rect x="651" y="10" width="184" height="60" fill="#F5C542"/>
+  <rect x="835" y="10" width="165" height="60" rx="30" ry="30" fill="#7B2CF6"/>
+  <rect x="446" y="10" width="30"  height="60" fill="#E2557A"/>
+  <rect x="835" y="10" width="30"  height="60" fill="#7B2CF6"/>
+</svg>
