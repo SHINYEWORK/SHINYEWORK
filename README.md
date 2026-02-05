@@ -24,7 +24,7 @@
 
 ---
 
-### 🐿️ A Little About Me
+### A Little About Me
 <p align="center">
   I craft playful, interactive experiences at the intersection of visual design, illustration, and code.<br/><br/>
   🎓 Visual Designer · Based in Korea<br/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔥 My GitHub Garden (Mobile-friendly)
+### My Garden
 <p align="center">
   <!-- ✅ Mobile에서도 잘 보이는 잔디(Contributions) 이미지 -->
   <!-- 1) 아래 USERNAME을 본인 깃헙 아이디로 바꿔줘 -->
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌰 My Acorn Stash (Tools)
+### My Acorn Stash
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
   <img src="https://img.shields.io/badge/Illustrator-8B45B2?logo=adobe%20illustrator&logoColor=white&style=for-the-badge" alt="Illustrator badge"/>
@@ -69,7 +69,7 @@
 
 ---
 
-### 🪵 Skill Growth (Languages)
+### Skill Growth 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-44.6%25-55E0D7?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-20.5%25-E2557A?style=for-the-badge&logo=html5&logoColor=white" />
