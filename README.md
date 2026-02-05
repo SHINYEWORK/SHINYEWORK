@@ -56,11 +56,14 @@
 ---
 
 ### Skill Growth 
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-44.6%25-55E0D7?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-20.5%25-E2557A?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-18.4%25-F5C542?style=for-the-badge&logo=javascript&logoColor=111" />
-  <img src="https://img.shields.io/badge/CSS-16.5%25-7B2CF6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="languages.svg" width="728" alt="Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%" />
+</p>
+
+<p align="center">
+  Dart 49.6% · JavaScript 21.0% · CSS 8.7% · C++ 7.2% · CMake 5.6% · HTML 5.4% · Swift 0.7% · Ruby 0.7% · C 0.4% · Other 0.4% · Python 0.2%
 </p>
 
 ---
