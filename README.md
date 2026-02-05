@@ -40,6 +40,8 @@
   <img src="https://ghchart.rshah.org/SHINYEWORK" alt="GitHub Contributions Chart" />
 </p>
 
+---
+
 ### My Acorn Stash
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-E4007F?logo=figma&logoColor=white&style=for-the-badge" alt="Figma badge"/>
@@ -57,29 +59,45 @@
 
 ### Skill Growth 
 ---
----
 
-### Languages (Overall)
 <p align="center">
   <img src="languages.svg" width="728" alt="Languages: Dart 49.6%, JavaScript 21.0%, CSS 8.7%, C++ 7.2%, CMake 5.6%, HTML 5.4%, Swift 0.7%, Ruby 0.7%, C 0.4%, Other 0.4%, Python 0.2%" />
 </p>
 
 <table align="center">
   <tr>
-    <td>
-      <span style="color:#00B4AB;">●</span> Dart 49.6%<br/>
-      <span style="color:#563d7c;">●</span> CSS 8.7%<br/>
-      <span style="color:#DA3434;">●</span> CMake 5.6%<br/>
-      <span style="color:#F05138;">●</span> Swift 0.7%<br/>
-      <span style="color:#555555;">●</span> C 0.4%<br/>
-      <span style="color:#3572A5;">●</span> Python 0.2%
+    <td align="left">
+      <div>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#00B4AB"/></svg>
+        Dart 49.6%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#f1e05a"/></svg>
+        JavaScript 21.0%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#563d7c"/></svg>
+        CSS 8.7%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#f34b7d"/></svg>
+        C++ 7.2%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#DA3434"/></svg>
+        CMake 5.6%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#e34c26"/></svg>
+        HTML 5.4%
+      </div>
     </td>
-    <td>
-      <span style="color:#f1e05a;">●</span> JavaScript 21.0%<br/>
-      <span style="color:#f34b7d;">●</span> C++ 7.2%<br/>
-      <span style="color:#e34c26;">●</span> HTML 5.4%<br/>
-      <span style="color:#701516;">●</span> Ruby 0.7%<br/>
-      <span style="color:#ededed;">●</span> Other 0.4%
+  </tr>
+
+  <tr>
+    <td align="left">
+      <div>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#F05138"/></svg>
+        Swift 0.7%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#701516"/></svg>
+        Ruby 0.7%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#555555"/></svg>
+        C 0.4%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#9CA3AF"/></svg>
+        Other 0.4%<br/>
+        <svg width="10" height="10" style="vertical-align: -1px; margin-right:6px;"><circle cx="5" cy="5" r="4" fill="#3572A5"/></svg>
+        Python 0.2%
+      </div>
     </td>
   </tr>
 </table>
