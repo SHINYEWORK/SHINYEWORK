@@ -48,21 +48,8 @@
 
 ---
 
-## 🚧 Working in my Secret Den...
-> I'm busy building brand-new projects behind the scenes... <br>
-> Stay tuned for the big reveal..
-
-<!-- ─────────────  SKILL GROWTH  ───────────── -->
-
 ### 🪵 Skill Growth (Languages)
 
----
-
-### 🪵 Skill Growth (Languages)
-
-<p align="center">
-  <img src="https://k6926511.github.io/github-readme-stats/api/pin/?username=SHINYEWORK&repo=Moodseum&show_owner=true" alt="Main Project" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-44.6%25-55E0D7?style=for-the-badge&logo=dart&logoColor=white" />
